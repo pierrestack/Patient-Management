@@ -28,7 +28,7 @@ This project is a web application for managing patients (cats, dogs) developed w
 1. **Clone the project**
 
     ```bash
-    git clone https://git.mokolos.com/mokolos/filament3.git
+    git clone https://github.com/pierrestack/Patient-Management.git
     cd filament3
     ```
 
