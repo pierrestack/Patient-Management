@@ -77,6 +77,9 @@ This project is a web application for managing patients (cats, dogs) developed w
 -   Tailwind CSS
 -   MySQL / PostgreSQL
 
+## Authors
+**ANDRIANARIVO Pierre Emmanuel**
+
 ## Contributing
 
 Contributions are welcome! Please submit a pull request for any improvements or corrections.
