@@ -29,7 +29,7 @@ This project is a web application for managing patients (cats, dogs) developed w
 
     ```bash
     git clone https://github.com/pierrestack/Patient-Management.git
-    cd filament3
+    cd Patient-Management
     ```
 
 2. **Install dependencies**
